@@ -5,7 +5,6 @@ import ctypes
 import os
 import struct
 
-#JSON
 TEXTURE_INFORMATION = [{
     "MODES": {
         "0" : "Uncompressed",
